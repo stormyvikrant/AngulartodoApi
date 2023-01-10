@@ -1,0 +1,13 @@
+{
+    "allProductsList": [
+      {
+        "productName": "graps",
+        "category": "fruits",
+        "freshness": "SecondHand",
+        "price": 80,
+        "comment": "this is not fresh",
+        "date": "2023-01-09T18:30:00.000Z",
+        "id": 1
+      }
+    ]
+}
